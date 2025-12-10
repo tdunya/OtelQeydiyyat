@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\C# KOdlar\obj\Debug\net8.0-windows\OtelQeydiyyat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# KOdlar\obj\Debug\net8.0-windows\OtelQeydiyyat.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# KOdlar\obj\Debug\net8.0-windows\OtelQeydiyyat.AssemblyInfo.cs
+C:\Users\user\Desktop\C# KOdlar\obj\Debug\net8.0-windows\OtelQeydiyyat.csproj.CoreCompileInputs.cache
